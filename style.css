@@ -1,0 +1,46 @@
+@media(min-width: 760px){
+    .news-input {
+        width:50%
+
+    }
+}
+nav{
+    background-color: burlywood;
+    height: 50px;
+    color: black;!important
+    font-weight: 700;
+    text-decoration: none;
+}
+a.nav-link{
+    color: black;
+    font-weight: bolder;
+}
+a.nav-link:hover{
+    color:darkred;
+    text-shadow: yellow;
+    text-decoration: none;
+}
+#navmenu{
+    color: black;
+}
+a.navbar-brand{
+    color:darkred;
+    font-size: x-large;
+    font-family: fantasy;
+}
+h3{
+    color: black;
+}
+.bg{
+   background-color: burlywood;
+    color: white
+
+
+}
+h3{
+    color: whitesmoke;
+    text-overflow: var(rgba(0, 128, 0, 0.153));
+    font-size: larger;
+    font-weight: 900;
+   
+}
